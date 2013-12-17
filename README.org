@@ -1,0 +1,4 @@
+
+* org-agenda-stats
+
+  This code makes a function that returns a string containing a summary of the free time that you have coming up.
